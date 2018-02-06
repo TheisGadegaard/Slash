@@ -1,0 +1,2 @@
+Name; abilityType; healthCost; manaCost; energyCost; lowroll; highroll;
+Slash; melee; 0; 0; 0; 20; 20; 

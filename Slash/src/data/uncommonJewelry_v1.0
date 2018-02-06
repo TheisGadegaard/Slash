@@ -1,0 +1,28 @@
+Greater ring of vigor; ring; 30; 2 str
+Greater ring of intellect; ring; 30; 2 int
+Greater ring of dexterity; ring; 30; 2 agi
+Greater ring of the knight; ring; 30; 1 str, 1 agi
+Greater ring of the healer; ring; 30; 1 str, 1 int
+Greater ring of the thief; ring; 30; 1 agi, 1 int
+Greater ring of protection; ring; 30; 2 defence
+Greater ring of armor; ring; 30; 3 def_melee
+Greater ring of preservation; ring; 30; 3 def_ranged
+Greater ring of resistance; ring; 30; 3 def_magic
+Greater ring of power; ring; 30; 2 damage
+Greater ring of impact; ring; 30; 3 dmg_melee
+Greater ring of hunting; ring; 30; 3 dmg_ranged
+Greater ring of destruction; ring; 30; 3 dmg_magic
+Greater amulet of vigor; necklace; 50; 4 str
+Greater amulet of intellect; necklace; 50; 4 int
+Greater amulet of dexterity; necklace; 50; 4 agi
+Greater amulet of the knight; necklace; 50; 2 str, 2 agi
+Greater amulet of the healer; necklace; 50; 2 str, 2 int
+Greater amulet of the thief; necklace; 50; 2 agi, 2 int
+Greater amulet of protection; necklace; 50; 3 defence
+Greater amulet of armor; necklace; 50; 6 def_melee
+Greater amulet of preservation; necklace; 50; 6 def_ranged
+Greater amulet of resistance; necklace; 50; 6 def_magic
+Greater amulet of power; necklace; 50; 3 damage
+Greater amulet of impact; necklace; 50; 6 dmg_melee
+Greater amulet of hunting; necklace; 50; 6 dmg_ranged
+Greater amulet of destruction; necklace; 50; 6 dmg_magic

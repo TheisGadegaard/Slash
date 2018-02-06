@@ -1,0 +1,28 @@
+Ring of vigor; ring; 10; 1 str
+Ring of intellect; ring; 10; 1 int
+Ring of dexterity; ring; 10; 1 agi
+Ring of the knight; ring; 10; 1 str, 1 agi, -1 int
+Ring of the healer; ring; 10; 1 str, 1 int, -1 agi
+Ring of the thief; ring; 10; 1 agi, 1 int, -1 str
+Ring of protection; ring; 10; 1 defence
+Ring of armor; ring; 10; 2 def_melee
+Ring of preservation; ring; 10; 2 def_ranged
+Ring of resistance; ring; 10; 2 def_magic
+Ring of power; ring; 10; 1 damage
+Ring of impact; ring; 10; 2 dmg_melee
+Ring of hunting; ring; 10; 2 dmg_ranged
+Ring of destruction; ring; 10; 2 dmg_magic
+Amulet of vigor; necklace; 15; 3 str
+Amulet of intellect; necklace; 15; 3 int
+Amulet of dexterity; necklace; 15; 3 agi
+Amulet of the knight; necklace; 15; 2 str, 2 agi, -1 int
+Amulet of the healer; necklace; 15; 2 str, 2 int, -1 agi
+Amulet of the thief; necklace; 15; 2 agi, 2 int, -1 str
+Amulet of protection; necklace; 15; 2 defence
+Amulet of armor; necklace; 15; 4 def_melee
+Amulet of preservation; necklace; 15; 4 def_ranged
+Amulet of resistance; necklace; 15; 4 def_magic
+Amulet of power; necklace; 15; 2 damage
+Amulet of impact; necklace; 15; 4 dmg_melee
+Amulet of hunting; necklace; 15; 4 dmg_ranged
+Amulet of destruction; necklace; 15; 4 dmg_magic

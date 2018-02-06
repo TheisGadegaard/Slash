@@ -1,0 +1,6 @@
+Name; lowType; effectType; buffType; decayType; buffTicks; Power; strengthScaling; intScaling; agiScaling
+Slash; lowroll; damage; null; null; 0; -10; 1; 0; 1
+Slash; standart; heal_en; null; null; 0; 2; 0; 0; 0
+Slash; standart; damage; null; null; 0; 0; 1; 0; 1
+Slash; highroll; heal_en; null; null; 0; 4; 0; 0; 0
+Slash; highroll; damage; null; null; 0; 5; 1; 0; 1

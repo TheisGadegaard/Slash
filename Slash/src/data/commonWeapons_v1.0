@@ -1,0 +1,9 @@
+Steel broadsword; onehanded; 30; 5 dmg_melee, 2 agi, -2 def_magic, -3 def_ranged
+Iron axe; onehanded; 30; 5 dmg_melee, 2 str, -2 int, -3 def_ranged
+Hunter's bow; twohanded; 30; 10 dmg_ranged, 4 agi, -5 highroll_melee, -5 def_melee
+Apprentice staff; twohanded; 30; 10 dmg_magic, 5 highroll_magic, 5 highroll_buff, 5 highroll_debuff, -4 str, -4 agi
+Iron shield; onehanded; 30; 7 defence, 4 str, -4 agi, -4 int
+Steel dagger; onehanded; 30; 3 agi, 5 highroll, -5 def_melee, -3 str
+Steel warhammer; twohanded; 30; 20 dmg_melee, -4 agi, 5 lowroll
+Steel longsword; twohanded; 30; 10 dmg_melee, 4 agi, -5 def_magic, -5 def_ranged
+Steel greataxe; twohanded; 30; 10 dmg_melee, 4 str, -4 int, -5 def_ranged
